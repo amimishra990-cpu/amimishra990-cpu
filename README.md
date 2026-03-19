@@ -16,7 +16,7 @@ Role: Full Stack Developer & Research Enthusiast
 Specialization: AI/ML Research | Web Development | 3D Web (Three.js)
 Focus: Building scalable, production-ready applications
 Expertise: React.js, Three.js, Python, JavaScript, APIs
-Approach: Clean code, performance optimization, and innovation-driven development
+Approach: Clean code, performance optimization, innovation-driven development
 ```
 
 **🎯 What I Bring to the Table:**
@@ -62,19 +62,15 @@ Approach: Clean code, performance optimization, and innovation-driven developmen
 
 ### Database & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </td>
 <td valign="top" width="50%">
 
-### Deployment & Design
+### Deployment
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 </td>
 </tr>
@@ -82,13 +78,11 @@ Approach: Clean code, performance optimization, and innovation-driven developmen
 
 ---
 
-## 🏆 Open Source Contributions
+## 🏆 Open Source Contributions & Badges
 
 <div align="center">
 
 [![Holopin Badges](https://holopin.me/amimishra990cpu)](https://www.holopin.io/@amimishra990cpu?verified=true#badges)
-
-*Proud Hacktoberfest 2025 contributor — showcasing my open-source journey 🚀*
 
 </div>
 
@@ -112,8 +106,9 @@ const Amartya = {
   technologies: {
     frontend: ["React", "Three.js", "React Native", "TailwindCSS"],
     backend: ["Node.js", "Express.js", "REST APIs"],
-    databases: ["PostgreSQL", "MongoDB"]
+    databases: ["PostgreSQL", "Supabase"]
   },
+  deployment: ["Vercel", "Render"],
   focus: "AI/ML research + scalable web apps + 3D web",
   openSource: "Hacktoberfest contributor",
   mindset: "Builder + Researcher"
@@ -127,6 +122,14 @@ const Amartya = {
 <div align="center">
 
 ### 🚀 Let's Build Something Amazing Together!
+
+---
+
+*"Building intelligent systems, immersive web experiences, and impactful solutions."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
 
 ---
 
