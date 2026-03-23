@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D9FF&height=160&section=header&text=Amartya%20Madhav%20Mishra&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D9FF&height=170&section=header&text=Amartya%20Madhav%20Mishra&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%7C+ML+Research+Enthusiast;Three.js+%7C+React+Specialist;Open+Source+Contributor;Building+Scalable+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+%7C+ML+Researcher;Multi-Agent+Systems+Builder;Three.js+%7C+React+Specialist;Building+Intelligent+Systems+at+Scale" />
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
@@ -10,27 +10,28 @@
 
 ---
 
-## Professional Summary
+## About Me
 
 ```yaml
 Name: Amartya Madhav Mishra
-Role: Full Stack Developer & Research Enthusiast
-Specialization: AI/ML Research | Web Development | 3D Web (Three.js)
-Focus: Building scalable, production-ready applications
-Expertise: React.js, Three.js, Python, JavaScript, APIs
-Approach: Clean code, performance optimization, innovation-driven development
+Role: Full Stack Developer & AI/ML Researcher
+Specialization: Multi-Agent Systems | Web Development | 3D Web
+Focus: Building scalable intelligent systems
+Tech: React.js, Three.js, Python, Node.js, APIs
+Mindset: Builder + Researcher + Problem Solver
 ```
+
+I design systems where **AI meets real-world impact** — from healthcare to finance to space tech.
 
 ---
 
-## Core Strengths
+## What I Bring
 
-- Full-stack development (Frontend + Backend)
-- API design & integration (Python + JavaScript ecosystems)
-- Interactive 3D web experiences using Three.js
-- Scalable, responsive UI/UX systems
-- Research-oriented problem solving
-- Open-source contributions (Hacktoberfest and more)
+- End-to-end system building (Frontend → Backend → AI)
+- Multi-agent architecture design
+- Research-backed product development
+- Real-world problem solving (healthcare, finance, misinformation)
+- Strong focus on scalability and system thinking
 
 ---
 
@@ -38,42 +39,13 @@ Approach: Clean code, performance optimization, innovation-driven development
 
 <div align="center">
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=js,react,threejs,tailwind,html,css" />
-
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
-
-### Database & Tools
-<img src="https://skillicons.dev/icons?i=postgres,git" />
-
-### Deployment
-<img src="https://skillicons.dev/icons?i=vercel" />
+<img src="https://skillicons.dev/icons?i=js,react,threejs,tailwind,nodejs,express,python,postgres,git,vercel" />
 
 </div>
 
 ---
 
-## Architecture Mindset
-
-```javascript
-const Amartya = {
-  code: ["JavaScript", "Python", "HTML/CSS", "SQL"],
-  technologies: {
-    frontend: ["React", "Three.js", "React Native", "TailwindCSS"],
-    backend: ["Node.js", "Express.js", "REST APIs"],
-    databases: ["PostgreSQL", "Supabase"]
-  },
-  deployment: ["Vercel", "Render"],
-  focus: "AI/ML research + scalable web apps + 3D web",
-  openSource: "Hacktoberfest contributor",
-  mindset: "Builder + Researcher"
-};
-```
-
----
-
-## Featured Projects
+## Featured Systems
 
 <div align="center">
 
@@ -82,42 +54,42 @@ const Amartya = {
 <td width="33%">
 
 ### CYNO  
-AI-powered Digital Oncology Team  
+AI Tumor Board System  
 
-<a href="https://github.com/amimishra990-cpu/Cyno">View Repository</a>
+<a href="https://github.com/amimishra990-cpu/Cyno">Repository</a>
 
-- Multi-agent tumor-board simulation  
-- Cross-document clinical reasoning  
-- Azure + AWS multi-agent architecture  
-- Real-time clinical decision synthesis  
+- Multi-agent clinical reasoning  
+- Cross-document intelligence  
+- Azure + AWS architecture  
+- Real-time tumor board reports  
 
 </td>
 
 <td width="33%">
 
 ### Credix  
-AI Credit Risk Analyst  
+AI Credit Intelligence  
 
-<a href="https://github.com/amimishra990-cpu/CreditAI">View Repository</a>
+<a href="https://github.com/amimishra990-cpu/CreditAI">Repository</a>
 
-- Multi-agent financial intelligence system  
+- Multi-agent financial system  
 - Early Warning Risk Detection  
-- Automated credit scoring + analysis  
-- Real-world financial decision support  
+- Automated decision pipeline  
+- Credit scoring intelligence  
 
 </td>
 
 <td width="33%">
 
-### NASA Mission (Expo)  
-Space Data Exploration Platform  
+### NASA Mission  
+Space Data Platform  
 
-<a href="https://github.com/amimishra990-cpu/Nasa_mission">View Repository</a>
+<a href="https://github.com/amimishra990-cpu/Nasa_mission">Repository</a>
 
-- Built for NASA Space Apps Challenge  
-- Interactive data visualization  
-- Real-time mission insights  
-- Research-driven UI experience  
+- NASA Space Apps project  
+- Interactive dashboards  
+- Real-time visualization  
+- Research-driven UI  
 
 </td>
 
@@ -128,34 +100,60 @@ Space Data Exploration Platform
 
 ---
 
-## Few Research Work
+## System Design Philosophy
 
-### CYNO Research (Healthcare AI)
+```
+INPUT DATA → MULTIPLE AGENTS → ORCHESTRATOR → FINAL DECISION
+```
 
-- Microsoft Research Paper (Tumor Board AI System)  
-  :contentReference[oaicite:0]{index=0}  
+- Break problems into specialized agents  
+- Each agent handles one domain  
+- Orchestrator merges + resolves conflicts  
+- Output = high-quality decision  
 
-- AWS Research & Architecture Paper  
-  :contentReference[oaicite:1]{index=1}  
-
-Key Contributions:
-- Multi-agent tumor board intelligence  
-- Orchestrator-based clinical reasoning  
-- Predictive survival + treatment modeling  
-- "Tumor Board in a Box" concept  
+This is the core idea behind all my major projects.
 
 ---
 
-### Misinformation Detection Research
+## Few Research & Works
 
-- AI Agents for Trustworthy Fact-Checking (Mumbai Hacks)  
+### CYNO (Healthcare AI)
+
+- Microsoft Research Paper  
+  :contentReference[oaicite:0]{index=0}  
+
+- AWS Architecture Paper  
+  :contentReference[oaicite:1]{index=1}  
+
+Highlights:
+- Tumor Board in a Box  
+- Multi-agent orchestration  
+- Predictive survival models  
+- Clinical decision intelligence  
+
+---
+
+### Misinformation Detection
+
+- Mumbai Hacks Research Paper  
   :contentReference[oaicite:2]{index=2}  
 
-Key Contributions:
-- Meta-evaluation AI system  
-- Reliability scoring (CARS, CACE)  
-- Hallucination detection framework  
-- Trustworthy AI benchmarking  
+Highlights:
+- AI reliability scoring system  
+- Hallucination detection  
+- Meta-agent evaluation  
+- Trustworthy AI systems  
+
+---
+
+## Engineering Focus Areas
+
+- Multi-Agent AI Systems  
+- AI in Healthcare  
+- Financial Intelligence Systems  
+- Structural Code Intelligence  
+- Scalable Backend Systems  
+- Human-AI Interaction  
 
 ---
 
@@ -163,15 +161,14 @@ Key Contributions:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amimishra990-cpu&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amimishra990-cpu&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=amimishra990-cpu&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amimishra990-cpu&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## Most Used Languages
+## Language Distribution
 
 <div align="center">
 
@@ -191,7 +188,7 @@ Key Contributions:
 
 ---
 
-## Open Source Contributions
+## Open Source
 
 <div align="center">
 
@@ -201,7 +198,7 @@ Key Contributions:
 
 ---
 
-## Visitor Count
+## Profile Views
 
 <div align="center">
 
@@ -211,18 +208,27 @@ Key Contributions:
 
 ---
 
-## Development Philosophy
+## Current Direction
 
-> Building intelligent systems that combine research depth with real-world usability.  
-> Focused on performance, scalability, and impactful innovation.
+- Building intelligent multi-agent systems  
+- Preparing research for arXiv  
+- Exploring scalable AI architectures  
+- Working on real-world AI applications  
 
 ---
 
-## Connect & Collaborate
+## Development Philosophy
+
+> Build systems that think, not just software that runs.  
+> Focus on impact, scalability, and intelligence.
+
+---
+
+## Let's Collaborate
 
 <div align="center">
 
-Building intelligent systems, immersive web experiences, and impactful solutions.
+Open to building impactful systems, research collaborations, and innovative projects.
 
 </div>
 
@@ -230,6 +236,6 @@ Building intelligent systems, immersive web experiences, and impactful solutions
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0D1117&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0D1117&height=150&section=footer"/>
 
 </div>
