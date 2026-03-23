@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D9FF&height=170&section=header&text=Amartya%20Madhav%20Mishra&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Exploring+Multi-Agent+Systems;Building+Real-World+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+%26+ML+Research+Enthusiast;Exploring+Multi-Agent+Systems;Building+Real-World+Projects" />
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
