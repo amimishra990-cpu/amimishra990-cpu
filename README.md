@@ -14,24 +14,24 @@
 
 ```yaml
 Name: Amartya Madhav Mishra
-Role: Full Stack Developer & AI/ML Researcher
-Specialization: Multi-Agent Systems | Web Development | 3D Web
+Role: Developer & AI/ML Research Enthusiast
+Specialization: Research | Web Development 
 Focus: Building scalable intelligent systems
 Tech: React.js, Three.js, Python, Node.js, APIs
-Mindset: Builder + Researcher + Problem Solver
+Mindset: Builder + Research Enthusiast + Problem Solver
 ```
 
-I design systems where **AI meets real-world impact** — from healthcare to finance to space tech.
+I am enthusiastic about designing systems where **AI meets real-world impact** — from healthcare to finance to space tech.
 
 ---
 
 ## What I Bring
 
-- End-to-end system building (Frontend → Backend → AI)
-- Multi-agent architecture design
-- Research-backed product development
-- Real-world problem solving (healthcare, finance, misinformation)
-- Strong focus on scalability and system thinking
+- Experience building projects across frontend, backend, and AI
+- Understanding of multi-agent system design
+- Interest in research-driven development and learning 
+- Hands-on problem solving through projects in areas like healthcare and finance and ML and Physics
+- Focus on writing scalable and well-structured systems
 
 ---
 
