@@ -280,8 +280,6 @@ const amartya: Developer = {
 
 <div align="center">
 
-<div align="center">
-
 ## `< GitHub Analytics />`
 
 <br/>
@@ -290,7 +288,7 @@ const amartya: Developer = {
 
 <p align="center">
   <img
-    src="https://YOUR-VERCEL-URL.vercel.app/api?username=amimishra990-cpu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=amimishra990-cpu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
     height="170"
   />
   <img
@@ -301,7 +299,7 @@ const amartya: Developer = {
 
 <p align="center">
   <img
-    src="https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=amimishra990-cpu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amimishra990-cpu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     height="170"
   />
 </p>
