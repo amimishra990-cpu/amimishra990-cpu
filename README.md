@@ -284,12 +284,12 @@ const amartya: Developer = {
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amimishra990-cpu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amimishra990-cpu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amimishra990-cpu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=1800" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=amimishra990-cpu&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amimishra990-cpu&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amimishra990-cpu&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 
 </div>
 
