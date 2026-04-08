@@ -280,29 +280,31 @@ const amartya: Developer = {
 
 <div align="center">
 
+<div align="center">
+
 ## `< GitHub Analytics />`
 
 <br/>
 
-> 📌 **To display live stats cards, fork [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and deploy your own Vercel instance, then replace `amimishra990-cpu.vercel.app` below with your deployment URL.**
-
-<br/>
-
-<!--
-  HOW TO FIX STATS CARDS (one-time setup, 5 minutes):
-  1. Fork https://github.com/anuraghazra/github-readme-stats
-  2. Go to vercel.com → New Project → import your fork
-  3. Add env var: PAT_1 = your GitHub personal access token
-  4. Deploy → copy your Vercel URL
-  5. Replace the src URLs below with: https://YOUR-VERCEL-URL/api?username=amimishra990-cpu...
--->
-
 **GitHub Stats · Streak · Top Languages**
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=amimishra990-cpu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/amimishra990-cpu)
-[![Streak](https://streak-stats.demolab.com?user=amimishra990-cpu&theme=tokyonight&hide_border=true)](https://github.com/amimishra990-cpu)
+<p align="center">
+  <img
+    src="https://YOUR-VERCEL-URL.vercel.app/api?username=amimishra990-cpu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+    height="170"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=amimishra990-cpu&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amimishra990-cpu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/amimishra990-cpu)
+<p align="center">
+  <img
+    src="https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=amimishra990-cpu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="170"
+  />
+</p>
 
 </div>
 
