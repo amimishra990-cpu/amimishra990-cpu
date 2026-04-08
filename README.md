@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:001F3F,100:00D9FF&height=300&section=header&text=Amartya%20Madhav%20Mishra&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Building%20Systems%20That%20Think&descAlignY=60&descSize=18&descColor=00D9FF&stroke=00D9FF&strokeWidth=1" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:001F3F,100:00D9FF&height=300&section=header&text=Amartya%20Madhav%20Mishra&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Building%20Systems%20That%20Think&descAlignY=60&descSize=18&descColor=00D9FF&stroke=00D9FF&strokeWidth=1" alt="header" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=⚡+Full+Stack+Engineer+%7C+AI+Systems+Architect;🧠+Multi-Agent+Systems+%7C+Clinical+AI+%7C+FinTech+AI;🔬+Research+Enthusiast+%7C+arXiv+in+Progress;🌐+React+%7C+Three.js+%7C+Python+%7C+Node.js;🚀+Turning+Research+Into+Real-World+Impact" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=%E2%9A%A1+Full+Stack+Engineer+%7C+AI+Systems+Architect;%F0%9F%A7%A0+Multi-Agent+Systems+%7C+Clinical+AI+%7C+FinTech+AI;%F0%9F%94%AC+Research+Enthusiast+%7C+arXiv+in+Progress;%F0%9F%9A%80+Turning+Research+Into+Real-World+Impact" alt="Typing SVG" /></a>
 
 </div>
 
@@ -14,33 +14,39 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0D1117?style=for-the-badge&logoColor=00D9FF&labelColor=001F3F)](https://github.com/amimishra990-cpu)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0D1117?style=for-the-badge&logoColor=00D9FF&labelColor=001F3F&color=0D1117)](https://github.com/amimishra990-cpu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amimishra990-cpu)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amimishra990@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=amimishra990-cpu&label=Profile+Views&color=00D9FF&style=for-the-badge)](https://github.com/amimishra990-cpu)
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake" />
 </div>
 
 ---
 
-## 🧬 Who Am I
+<div align="center">
+
+## `< Who Am I />`
+
+</div>
 
 ```typescript
 const amartya: Developer = {
-  name:           "Amartya Madhav Mishra",
-  role:           "Full Stack Developer & AI/ML Research Enthusiast",
-  specialization: ["Multi-Agent AI Systems", "Clinical Intelligence", "FinTech AI"],
-  currentFocus:   "Building production-grade intelligent systems that solve real problems",
-  researchGoal:   "Publishing on arXiv — bridging research and engineering",
-  techPhilosophy: "Don't just run software. Build systems that think.",
-  location:       "India 🇮🇳",
-  openTo:         ["Collaborations", "Research Projects", "Open Source", "Internships"],
+  name           : "Amartya Madhav Mishra",
+  role           : "Full Stack Developer & AI/ML Research Enthusiast",
+  specialization : ["Multi-Agent AI Systems", "Clinical Intelligence", "FinTech AI"],
+  currentFocus   : "Building production-grade intelligent systems that solve real problems",
+  researchGoal   : "Publishing on arXiv — bridging research and engineering",
+  philosophy     : "Don't just run software. Build systems that think.",
+  location       : "India 🇮🇳",
+  openTo         : ["Collaborations", "Research Projects", "Open Source", "Internships"],
+  funFact        : "I design AI that makes clinical decisions oncologists trust.",
 };
 ```
 
@@ -48,90 +54,172 @@ const amartya: Developer = {
 
 ---
 
-## 🏗️ System Design Philosophy
+<div align="center">
+
+## `< System Architecture />`
+
+</div>
 
 ```
-╔═══════════════════════════════════════════════════════════════════╗
-║                    MULTI-AGENT ARCHITECTURE                        ║
-╠═══════════════════════════════════════════════════════════════════╣
-║                                                                   ║
-║  RAW DATA ──► [Agent A] ──┐                                       ║
-║                            ├──► ORCHESTRATOR ──► FINAL DECISION   ║
-║  RAW DATA ──► [Agent B] ──┤         │                             ║
-║                            │    [Conflict                          ║
-║  RAW DATA ──► [Agent C] ──┘     Resolution]                       ║
-║                                                                   ║
-║  Each agent = one domain expert                                   ║
-║  Orchestrator = synthesis + resolution layer                      ║
-║  Output = high-confidence, explainable decision                   ║
-╚═══════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║               MULTI-AGENT ORCHESTRATION PATTERN                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║   INPUT DATA ──► [ Specialist Agent A : Domain Expert ]──┐           ║
+║                                                           │           ║
+║   INPUT DATA ──► [ Specialist Agent B : Domain Expert ]──┼──► ORCH  ║
+║                                                           │  -ESTRA  ║
+║   INPUT DATA ──► [ Specialist Agent C : Domain Expert ]──┘   TOR    ║
+║                                                               │       ║
+║                                              ┌────────────────┘       ║
+║                                              ▼                        ║
+║                                    [ Conflict Resolution ]            ║
+║                                              │                        ║
+║                                              ▼                        ║
+║                                  HIGH-CONFIDENCE DECISION             ║
+║                                                                      ║
+║   Principle: One orchestrator. Many specialists. Zero compromise.    ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
-
-This architecture powers all three of my flagship systems: **CYNO**, **Credix**, and **NASA Mission**.
 
 ---
 
-## 🚀 Flagship Systems
+<div align="center">
+
+## `< Flagship Systems />`
+
+</div>
 
 <div align="center">
 
-| 🧠 [CYNO — AI Tumor Board](https://github.com/amimishra990-cpu/Cyno) | 💳 [Credix — Credit Intelligence](https://github.com/amimishra990-cpu/CreditAI) | 🛸 [NASA Mission — Space Platform](https://github.com/amimishra990-cpu/Nasa_mission) |
-|---|---|---|
-| Multi-agent clinical reasoning engine | Multi-agent financial risk system | NASA Space Apps Challenge project |
-| Cross-document intelligence | Early Warning Risk Detection (EWS) | Interactive space data dashboards |
-| Azure + AWS hybrid architecture | Automated credit decision pipeline | Real-time visualization & research UI |
-| Real-time tumor board report generation | Credit scoring with explainability | Research-driven interactive maps |
-| 🏥 **Healthcare × AI** | 💰 **FinTech × AI** | 🌌 **Space × AI** |
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<div align="center">
+
+### 🧠 CYNO
+**AI Tumor Board System**
+
+[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github)](https://github.com/amimishra990-cpu/Cyno)
+![Healthcare](https://img.shields.io/badge/Healthcare_%C3%97_AI-00D9FF?style=flat-square)
+
+</div>
+
+- 🔬 Multi-agent clinical reasoning
+- 📄 Cross-document intelligence
+- ☁️ Azure + AWS hybrid infra
+- 📊 Real-time tumor board reports
+- 🧬 Predictive survival modelling
+- 🏥 Built for oncology teams
+
+</td>
+<td width="33%" valign="top">
+
+<div align="center">
+
+### 💳 CREDIX
+**AI Credit Intelligence**
+
+[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github)](https://github.com/amimishra990-cpu/CreditAI)
+![FinTech](https://img.shields.io/badge/FinTech_%C3%97_AI-FFD700?style=flat-square&logoColor=black)
+
+</div>
+
+- 💰 Multi-agent financial system
+- ⚠️ Early Warning Risk Detection
+- ⚙️ Automated decision pipeline
+- 📈 Credit scoring intelligence
+- 🔍 Explainable risk outputs
+- 🏦 Built for lending at scale
+
+</td>
+<td width="33%" valign="top">
+
+<div align="center">
+
+### 🛸 NASA MISSION
+**Space Data Platform**
+
+[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github)](https://github.com/amimishra990-cpu/Nasa_mission)
+![Space](https://img.shields.io/badge/Space_%C3%97_AI-9B59B6?style=flat-square)
+
+</div>
+
+- 🌌 NASA Space Apps project
+- 📡 Interactive data dashboards
+- 🗺️ Real-time visualization
+- 🔭 Research-driven UI design
+- 🌍 Geospatial data integration
+- 🚀 Built for space scientists
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🔬 Research & Publications
+<div align="center">
 
-### 📄 CYNO — Healthcare AI (Clinical Decision Intelligence)
+## `< Research & Publications />`
+
+</div>
+
+### 🏥 CYNO — Healthcare AI
 
 <details>
-<summary><b>📌 Microsoft Research Reference — Tumor Board in a Box</b></summary>
+<summary><b>📄 Microsoft Research Reference — Tumor Board in a Box</b></summary>
+<br/>
 
-- Multi-agent orchestration for oncology decision-making  
-- Predictive survival modelling across clinical documents  
-- Cross-modal reasoning: imaging + pathology + genomics  
-- Designed to replicate expert tumor board consensus  
+| Aspect | Detail |
+|--------|--------|
+| 🎯 Core Concept | Multi-agent orchestration for oncology decision-making |
+| 🧬 Intelligence | Cross-modal reasoning: imaging + pathology + genomics |
+| 🏥 Output | Replicates expert tumor board consensus at scale |
+| 📊 ML Models | Predictive survival modelling across clinical documents |
 
 </details>
 
 <details>
-<summary><b>📌 AWS Architecture Paper — Scalable Clinical AI Infrastructure</b></summary>
+<summary><b>📄 AWS Architecture Paper — Scalable Clinical AI Infrastructure</b></summary>
+<br/>
 
-- Serverless multi-agent pipeline on AWS + Azure  
-- HIPAA-conscious architecture design patterns  
-- Real-time inference + asynchronous report generation  
-- Fault-tolerant orchestration with fallback agents  
-
-</details>
-
----
-
-### 📄 Misinformation Detection — Mumbai Hacks Research
-
-<details>
-<summary><b>📌 AI Reliability Scoring & Hallucination Detection</b></summary>
-
-- Meta-agent evaluates outputs of primary reasoning agents  
-- Hallucination scoring using semantic consistency checks  
-- Trustworthy AI pipeline with confidence calibration  
-- Presented at Mumbai Hacks Hackathon  
+| Aspect | Detail |
+|--------|--------|
+| ☁️ Architecture | Serverless multi-agent pipeline on AWS + Azure |
+| 🔒 Compliance | HIPAA-conscious design patterns |
+| ⚡ Performance | Real-time inference + async report generation |
+| 🛡️ Reliability | Fault-tolerant orchestration with fallback agents |
 
 </details>
 
 ---
 
-## ⚡ Tech Stack
+### 🛡️ Misinformation Detection — Mumbai Hacks
+
+<details>
+<summary><b>📄 AI Reliability Scoring & Hallucination Detection System</b></summary>
+<br/>
+
+| Aspect | Detail |
+|--------|--------|
+| 🔍 Method | Meta-agent evaluates outputs of primary reasoning agents |
+| 🧠 Core Tech | Semantic consistency scoring for hallucination detection |
+| 📊 Output | Confidence-calibrated, trustworthy AI pipeline |
+| 🏆 Presented | Mumbai Hacks Hackathon |
+
+</details>
+
+---
 
 <div align="center">
 
-### Frontend
+## `< Tech Stack />`
+
+**Frontend**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -139,20 +227,25 @@ This architecture powers all three of my flagship systems: **CYNO**, **Credix**,
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### Backend & Infra
+**Backend & Databases**
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### AI / ML
+**AI / ML**
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-### Cloud & DevOps
+**Cloud & DevOps**
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -163,99 +256,129 @@ This architecture powers all three of my flagship systems: **CYNO**, **Credix**,
 
 ---
 
-## 🎯 Engineering Focus Areas
+<div align="center">
+
+## `< Engineering Focus />`
+
+</div>
 
 <div align="center">
 
-| Domain | Description |
+| Domain | What I Build |
 |--------|-------------|
-| 🧠 **Multi-Agent AI Systems** | Orchestrating specialized agents toward unified, explainable decisions |
-| 🏥 **AI in Healthcare** | Clinical reasoning, oncology decision support, predictive survival modelling |
+| 🧠 **Multi-Agent AI Systems** | Orchestrating specialist agents toward explainable, unified decisions |
+| 🏥 **AI in Healthcare** | Clinical reasoning, oncology support, predictive survival models |
 | 💰 **Financial Intelligence** | Credit risk, early warning signals, automated decision pipelines |
-| 🔍 **Structural Code Intelligence** | Code understanding, semantic analysis, developer tooling |
-| ⚙️ **Scalable Backend Systems** | Microservices, event-driven pipelines, fault-tolerant architectures |
+| 🔍 **Code Intelligence** | Semantic code analysis, developer tooling, structural reasoning |
+| ⚙️ **Scalable Backends** | Microservices, event-driven pipelines, fault-tolerant architectures |
 | 🤝 **Human-AI Interaction** | Explainable AI, trust calibration, human-in-the-loop systems |
+| 🛸 **Space & Physics** | Research-driven UIs, geospatial data, scientific visualization |
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amimishra990-cpu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amimishra990-cpu&theme=tokyonight&hide_border=true" />
+## `< GitHub Analytics />`
 
-</div>
+<br/>
 
-<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amimishra990-cpu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amimishra990-cpu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amimishra990-cpu&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
+<br/><br/>
 
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amimishra990-cpu&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=001F3F&hide_border=true&custom_title=Amartya's%20Contribution%20Graph" />
+<img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amimishra990-cpu&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=amimishra990-cpu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+## `< Trophies />`
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=amimishra990-cpu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-## 🔭 Currently Working On
+<div align="center">
+
+## `< Contribution Graph />`
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amimishra990-cpu&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=001F3F&hide_border=true&custom_title=Amartya's%20Contribution%20Timeline" alt="Contribution Graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `< Current Roadmap />`
+
+</div>
 
 ```
-✅  Multi-agent healthcare orchestration (CYNO v2)
-✅  Financial risk intelligence engine (Credix)
-🔄  Preparing research paper for arXiv submission
-🔄  Exploring scalable vector databases for AI retrieval
-📌  Long-term: AI systems that assist in physics & space research
+ STATUS   ITEM
+──────────────────────────────────────────────────────────────
+  ✅      CYNO v1 — Multi-agent tumor board (shipped)
+  ✅      Credix — Financial risk intelligence (shipped)
+  ✅      NASA Mission — Space data platform (shipped)
+  🔄      CYNO v2 — Enhanced orchestration + new agents
+  🔄      arXiv paper submission — in preparation
+  🔄      Vector database integration for AI retrieval
+  📌      Exploring physics simulation × AI systems
+  📌      Open source multi-agent framework (planned)
 ```
 
 ---
 
-## 💡 Dev Philosophy
-
 <div align="center">
 
-> *"Build systems that think, not just software that runs."*
+## `< Dev Philosophy />`
 
-> *"Every agent is a specialist. Every orchestrator is a strategist."*
+<br/>
 
-> *"The best AI is invisible — it just makes the right decision."*
+> 💬 *"Build systems that think, not just software that runs."*
+
+> 💬 *"Every agent is a specialist. Every orchestrator is a strategist."*
+
+> 💬 *"The best AI is invisible — it just makes the right decision."*
+
+> 💬 *"Research without engineering is a paper. Engineering without research is a script. Do both."*
+
+<br/>
 
 </div>
 
 ---
 
-## 🤝 Let's Collaborate
-
 <div align="center">
 
-I'm open to:
+## `< Let's Collaborate />`
 
-🔬 **Research Collaborations** &nbsp;|&nbsp; 🛠️ **Open Source Projects** &nbsp;|&nbsp; 🚀 **Impactful AI Systems** &nbsp;|&nbsp; 🎓 **Internships & Opportunities**
+<br/>
+
+I'm actively open to:
+
+🔬 **Research Collaborations** &nbsp;·&nbsp; 🛠️ **Open Source Projects** &nbsp;·&nbsp; 🚀 **AI Systems That Matter** &nbsp;·&nbsp; 🎓 **Internships & Opportunities**
+
+<br/>
 
 **If you're building something that matters — let's talk.**
 
-[![GitHub Follow](https://img.shields.io/github/followers/amimishra990-cpu?label=Follow%20on%20GitHub&style=for-the-badge&logo=github&color=0D1117)](https://github.com/amimishra990-cpu)
-&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=amimishra990-cpu&label=Profile%20Views&color=00D9FF&style=for-the-badge)
+<br/>
+
+[![GitHub Follow](https://img.shields.io/github/followers/amimishra990-cpu?label=Follow+on+GitHub&style=for-the-badge&logo=github&color=0D1117&labelColor=001F3F)](https://github.com/amimishra990-cpu)
+&nbsp;&nbsp;
+[![Stars](https://img.shields.io/github/stars/amimishra990-cpu?label=Total+Stars&style=for-the-badge&logo=github&color=0D1117&labelColor=001F3F)](https://github.com/amimishra990-cpu)
 
 </div>
 
@@ -271,6 +394,6 @@ I'm open to:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:001F3F,100:0D1117&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:001F3F,100:0D1117&height=160&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=65" alt="footer" />
 
 </div>
